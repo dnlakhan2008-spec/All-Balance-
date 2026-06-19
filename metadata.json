@@ -1,0 +1,6 @@
+{
+  "name": "Card Balances",
+  "description": "Manage and track all your bank cards and balances in one place with a beautiful liquid glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
